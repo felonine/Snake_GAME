@@ -38,3 +38,37 @@ g++ game.cpp -o game
 
 --- 
 
+## ENGLISH VER
+
+# 🐍 SNAKE GAME
+
+A classic console game — **Snake** in C++!
+
+![Snake Game GIF](https://i.pinimg.com/originals/95/7c/ae/957cae6bbf50296d08656eb61d40d5a3.gif)
+
+This game was written by me as a small chill project. I didn’t try to make anything super fancy.  
+Also, I used a header file at first, but ended up putting everything in a single `.cpp` file 😅 — happens!
+
+![Snake GIF](https://i.pinimg.com/originals/9b/a1/39/9ba1397990cdb028f6560b46cf80ea99.gif)
+
+---
+
+## 🎮 Game Description
+One of the simplest games ever: move your snake, eat food, and grow almost infinitely… until you crash 😜  
+
+**🐍 Snake Game — a timeless classic!**
+
+Dive into nostalgia with the console snake: guide your snake across the grid, eat food to grow longer, and avoid walls and your own tail. The game is simple but addictive.
+
+⚡ **Features:**
+- Classic snake mechanics with a modern retro vibe  
+- Minimalist console graphics, maximum fun  
+
+Ready to test your reflexes? 🕹️
+
+---
+
+## 🖥️ How to Run (g++ / GNU only)
+```bash
+g++ game.cpp -o game
+./game.exe
