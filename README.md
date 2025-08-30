@@ -1,2 +1,2 @@
 ## _SNAKE_GAME_🐍
- ![gif]("https://i.pinimg.com/originals/95/7c/ae/957cae6bbf50296d08656eb61d40d5a3.gif")
+ ![gif]("https://i.pinimg.com/originals/76/30/b4/7630b4b348930a5bc2a3679ecdfbb3c9.gif")
