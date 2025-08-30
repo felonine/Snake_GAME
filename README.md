@@ -39,6 +39,7 @@ g++ game.cpp -o game
 --- 
 
 # ENGLISH VER 🌍
+---
 
 # 🐍 SNAKE GAME
 
