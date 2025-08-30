@@ -2,7 +2,7 @@
 
 Классическая Консольная игра "Змейка" на С++
 
-![gif]("https://i.pinimg.com/originals/82/29/44/82294443b7bc77e05600a07e32b55592.gif")
+![gif](https://i.pinimg.com/originals/82/29/44/82294443b7bc77e05600a07e32b55592.gif)
 
 ---
 
