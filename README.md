@@ -7,7 +7,7 @@
 Игра была написано мной как простой проектик для чилла, на самом деле не пытался ничего сверхественного написать. 
 Да и тем более сделал с хидер файлом и в итоге закрыл в одном cpp файле)) Ну бывает
 
-![gif](https://i.pinimg.com/originals/9b/a1/39/9ba1397990cdb028f6560b46cf80ea99.gif)
+![gif](https://i.pinimg.com/originals/87/3d/41/873d41099e78464bde2bd3f211572ed3.gif)
 
 ---
 # ОПИСАНИЕ ИГРЫ
@@ -50,7 +50,7 @@ A classic console game — **Snake** in C++!
 This game was written by me as a small chill project. I didn’t try to make anything super fancy.  
 Also, I used a header file at first, but ended up putting everything in a single `.cpp` file 😅 — happens!
 
-![Snake GIF](https://i.pinimg.com/originals/9b/a1/39/9ba1397990cdb028f6560b46cf80ea99.gif)
+![Snake GIF](https://i.pinimg.com/originals/87/3d/41/873d41099e78464bde2bd3f211572ed3.gif)
 
 ---
 
